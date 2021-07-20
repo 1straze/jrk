@@ -69,7 +69,7 @@
          "name":"floor",
          "offsetx":4,
          "offsety":-6,
-         "opacity":0.36,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":150,
