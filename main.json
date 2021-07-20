@@ -26,21 +26,15 @@
          "id":5,
          "name":"silent",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":150,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "id":2,
-         "image":"Treasure-1626767003182.png",
-         "name":"karte",
-         "offsetx":3.63567962078196,
-         "offsety":-101.799029381889,
-         "opacity":1,
-         "type":"imagelayer",
-         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -63,6 +57,18 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "id":2,
+         "image":"Treasure-1626767003182.png",
+         "name":"karte",
+         "offsetx":3.63567962078196,
+         "offsety":-101.799029381889,
+         "opacity":1,
+         "type":"imagelayer",
          "visible":true,
          "x":0,
          "y":0
