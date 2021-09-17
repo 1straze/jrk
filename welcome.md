@@ -11,7 +11,7 @@ Hier auf dieser Kartet findet ihr verschiedene Stationen.
 ## Einige allgemeine Tips zur nutzung:
 
 
-Dieses Tutorial soll einen kurzen Überblick und Empfehlungen für eine entspannte STRAZE-Digital-Erfahrung bieten.
+Dieses Tutorial soll einen kurzen Überblick und Empfehlungen für eine entspannte JRK-Digital-Erfahrung bieten.
 
 ## Regeln
 **Be excellent to each other**
@@ -29,7 +29,7 @@ Wie auf sonstigen Events in des JRK gilt auch hier die Fotopolicy. Falls Ihr Bil
 
 Ihr braucht einen Computer oder mindestens ein Gerät mit physischer Tastatur. Ein Tablet mit Tastatur scheint zu funktionieren.
 
-Da das JRk Event ein interaktives Multiplayer-Erlebnis ist, werden Kamera und Mikrofon empfohlen. Ihr braucht sie aber nicht zwingend um teilzunehmen, Interaktionen mit anderen werden ohne aber sehr langweilig sein.
+Da das JRK Event ein interaktives Multiplayer-Erlebnis ist, werden Kamera und Mikrofon empfohlen. Ihr braucht sie aber nicht zwingend um teilzunehmen, Interaktionen mit anderen werden ohne aber sehr langweilig sein.
 ### Browser
 
 Die Karte sollte mit allen gängigen Browsern funktionieren, es kann aber je nach verwendetem Browser kleinere Probleme geben. Unsere Erfahrung zeigt, dass die Konferenz am besten mit Chromium funktioniert.
