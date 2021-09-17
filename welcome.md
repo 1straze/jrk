@@ -2,6 +2,12 @@
 
 Hier auf dieser Kartet findet ihr verschiedene Stationen.
 
+* Schwerin
+* Rostock
+* Stralsund
+* Greifswald
+* Demmin
+
 ## Einige allgemeine Tips zur nutzung:
 
 
