@@ -32,7 +32,7 @@ Ihr braucht einen Computer oder mindestens ein Gerät mit physischer Tastatur. E
 Da das JRK Event ein interaktives Multiplayer-Erlebnis ist, werden Kamera und Mikrofon empfohlen. Ihr braucht sie aber nicht zwingend um teilzunehmen, Interaktionen mit anderen werden ohne aber sehr langweilig sein.
 ### Browser
 
-Die Karte sollte mit allen gängigen Browsern funktionieren, es kann aber je nach verwendetem Browser kleinere Probleme geben. Unsere Erfahrung zeigt, dass die Konferenz am besten mit Chromium funktioniert.
+Die Karte sollte mit allen gängigen Browsern funktionieren, es kann aber je nach verwendetem Browser kleinere Probleme geben. Unsere Erfahrung zeigt, dass die Konferenz am besten mit [Chromium](https://www.chromium.org/getting-involved/download-chromium) funktioniert.
 ### Steuerung
 
 Ihr könnt Euch auf den Karten mittels der Pfeiltasten oder WASD bewegen. Shift gedrückt halten um zu rennen.
